@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130749351162",
+    "firebase_url": "https://afacedect.firebaseio.com",
+    "project_id": "afacedect",
+    "storage_bucket": "afacedect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130749351162:android:f660001f04e80ab03b3543",
+        "android_client_info": {
+          "package_name": "com.example.afacedect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130749351162-ldpn9qfb0vuhg9ooh8ccc7f80a5iqtut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQcwNgZ4YdLwjM1HjcOF1tueKPbIZ5JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130749351162-ldpn9qfb0vuhg9ooh8ccc7f80a5iqtut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
